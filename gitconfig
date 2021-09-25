@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ardolce23@gmail.com
+	name = Arisa Nemoto
